@@ -142,13 +142,12 @@ export const info = {
       images: [mock21, mock22, mock23, mock24, mock25, mock26]
     },
     {
-      title: "Android - Kotlin Final Year Project",
-
+      title: "Android (Kotlin) - Advanced Tour Guide",
       source: "",
       images: [mock31, mock32, mock33, mock34, mock35, mock36, mock37, mock38]
     },
     {
-      title: "Hackathon Project",
+      title: "Hackathon (Django) - Resume Builder",
       source: "https://github.com/YSCodez/35-APIHunters.git",
       images: [mock41, mock42]
     },
