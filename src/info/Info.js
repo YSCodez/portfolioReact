@@ -131,25 +131,25 @@ export const info = {
   portfolio: [
     {
       title: "Portfolio (React.js)",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/YSCodez/Staff-Duty-Allocation",
+      live: "https://ydsportfolio.netlify.app/",
+      source: "https://github.com/YSCodez/portfolioReact.git",
       images: [portfolio]
     },
     {
       title: "Internship Project - Social Media Handling",
 
-      source: "https://github.com/paytonjewell",
+      source: "https://github.com/Shade6/marketing_frontend.git",
       images: [mock21, mock22, mock23, mock24, mock25, mock26]
     },
     {
       title: "Android - Kotlin Final Year Project",
 
-      source: "https://github.com/paytonjewell",
+      source: "",
       images: [mock31, mock32, mock33, mock34, mock35, mock36, mock37, mock38]
     },
     {
       title: "Hackathon Project",
-      source: "https://github.com/paytonjewell",
+      source: "https://github.com/YSCodez/35-APIHunters.git",
       images: [mock41, mock42]
     },
     {
