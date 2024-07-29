@@ -37,7 +37,7 @@ This is my personal portfolio website, developed using React.js, Tailwind CSS, a
 
    ```bash
    git clone https://github.com/YSCodez/portfolioReact.git
-   cd portfolioReact
+   cd portfolioReact-main
    ```
 
 2. **Install dependencies:**
