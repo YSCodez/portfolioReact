@@ -40,10 +40,12 @@ This is my personal portfolio website, developed using React.js, Tailwind CSS, a
    cd portfolioReact
 
 2. **Install dependencies:**
+  ```bash
    npm install
 
 3. **Run the application locally:**
-   npm start
+    ```bash
+    npm start
 
 This will start the development server and open the website in your default browser.
 
