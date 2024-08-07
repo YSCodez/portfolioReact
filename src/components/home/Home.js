@@ -25,6 +25,7 @@ export default function Home({ innerRef }) {
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
         width: '100%',
+        loading:'eager',
       }}
     >
       <Box
@@ -39,7 +40,7 @@ export default function Home({ innerRef }) {
         p={'0.75rem'}
         mb={{ xs: '1rem', sm: 0 }}
         mr={{ xs: 0, md: '2rem' }}
-        loading='lazy'
+        loading='eager'
       />
       <Box>
         <h1>Hi, I'm <span style={{ background: info.gradient, WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>{info.firstName}</span><span className={Style.hand}>🤚</span>
