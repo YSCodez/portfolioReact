@@ -37,6 +37,7 @@ function PortfolioBlock({ images, live, source, title }) {
               style={imageStyle}
               src={image}
               alt={`${title} slide ${index + 1}`}
+              loading="lazy"
             />
           </Carousel.Item>
         ))}
